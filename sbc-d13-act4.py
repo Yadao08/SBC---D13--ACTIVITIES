@@ -1,3 +1,5 @@
+#CUSTOM TOKENIZATION
+
 text = "Hello!, Goodbye for Now!"
 custom = []
 current_word = ''
